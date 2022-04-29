@@ -1,5 +1,7 @@
 liblibrary.so
 library
+basic/libbridge.so
+basic/main
+goroutines/libroutines.so
 goroutines/PIA17218.tif
-goroutines/fancy
-goroutines/libfancy.so
+goroutines/routines
