@@ -141,3 +141,7 @@ $ ./fancy
 [c++] fib(50) on thread 0x7000009b2000 took 33.2035 seconds.
 [go] done (elapsed: 33.268694231 seconds)
 ```
+
+[1]: https://pkg.go.dev/badge/github.com/teocci/go-cpp-sample.svg
+[2]: https://pkg.go.dev/github.com/teocci/go-cpp-sample
+[3]: https://github.com/teocci/go-cpp-sample/releases/tag/v1.0.0
